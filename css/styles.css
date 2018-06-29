@@ -5,9 +5,10 @@ h1 {
   padding: 2px;
 }
 
-h2 {
+#tt {
   color: black;
   font-size: 22px;
+  font-style: normal;
 }
 
 img {
@@ -38,10 +39,20 @@ p {
 
 a {
   text-decoration: none;
+  color: blue;
 }
 
 body{
   background-color: beige;
   color: black;
 
+}
+.headings{
+  color: red;
+  font-size: 20px;
+  font-style: italic;
+  text-decoration: underline;
+}
+ul{
+  list-style: none;
 }
