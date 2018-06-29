@@ -19,6 +19,8 @@ img {
 
 p {
   font-size: 18px;
+  padding: 3px;
+  margin: 2px;
 }
 
 #id {
@@ -26,13 +28,13 @@ p {
   font-size: 25px;
 }
 
-.sidebar{
+.sidebar {
   width: 20%;
   height: 900px;
   float: left;
   background-color: beige;
 }
 
-a{
+a {
   text-decoration: none;
 }
